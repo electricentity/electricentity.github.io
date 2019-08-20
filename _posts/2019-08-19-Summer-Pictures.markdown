@@ -4,8 +4,7 @@ layout: post
 date: 2019-08-19 20:30
 headerImage: false
 tag:
-- markdown
-- elements
+- photography
 star: true
 category: blog
 author: michaelreeve
