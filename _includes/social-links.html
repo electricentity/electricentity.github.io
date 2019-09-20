@@ -106,4 +106,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.strava %}
+        <a class="link" data-title="{{ site.strava }}" href="https://strava.com/athletes/{{ site.email }}">
+            <svg class="icon icon-strava"><use xlink:href="#icon-strava"></use></svg>
+        </a>
+    {% endif %}
 </div>
