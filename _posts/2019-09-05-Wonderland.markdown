@@ -11,6 +11,8 @@ category: blog
 author: Michael Reeve
 description: A trail that will always hold memories
 ---
+###A trail that will always hold memories
+
 I'm not sure when the desire to push myself physically first entered my thoughts; might have been while taking weight to speed up the weakest link in a group heading out to climb Elderado Peak while I was first being introduced to mountaineering or maybe it was my challenge of trying to hit all the side peaks while my family did the Tongariro Crossing. What I do know is that it truly crystallized while climbing Mount Rainier in June, car-to-car in 14 hours, when my climbing partner lamented the fact that his head lamp dying during the night contributed five hours to his 33 hour completion of the Wonderland Trail, a trail my Mom had just won a permit for that I had already invited myself onto.
 
  I had originally signed on to the 8-night permit in order to spend time with my parents and I didn't want to deviate from that goal. So, at no point was I going to be going for speed or trying to set an impressive time, but with the thought that those were things people were doing on this trail, I realized in some way this would be my opportunity to taste what really pushing myself could be like.
@@ -26,16 +28,15 @@ Fueling up on some delicious home cooked food the night before in my families Ai
 
 Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and a family friend joining us till the first junction for some of my side adventures, Frozen Lake. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace to set off on some adventures.
 
-![Markdowm Image][2]{: class="bigger-image" }
-
 I got to the Frozen Lake junction to realize that I was already not sufficiently planned. I was at tree line, leaving me no good tree to stash food in if I were to drop pack. I decided to head up towards the three Burroughs with my pack and figure out what to do as I went. Before ascending the Second Burrough I decided to just suspend my stuff sack of food between two rocks on my trekking pole and hope that was sufficient to at least save my food from chipmunks.
 
 Without my pack I quickly ascended and descended the Burroughs, breaking into a jog and a run when possible. I was flying past people on day hikes and caught up to two people on a trail run. I felt great, the weather seemed stable, and the day was still young.
 
-![Markdowm Image][3]{: class="bigger-image" }
+![Markdowm Image][2]{: class="bigger-image" }
 
 My food was fortunately untouched and I jogged off the First Burrough with my pack. Hanging my food on a fence at Frozen Lake I then broke back into stride going out to Mt Fremont Fire Lookout and then scrambling up Mt Fremont.
 
+![Markdowm Image][3]{: class="bigger-image" }
 ![Markdowm Image][4]{: class="bigger-image" }
 
 Consuming some snacks I donned my pack and headed towards Skyscraper Pass between a walk and a jog, not sure what I would be able to maintain today, let alone for the next 8 days. I had pulled out my hiking poles knowing that maintaining my pace and saving my knees were going to be crucial to my enjoyment of this trip. My poles didn't go back into my pack for the rest of the trip.
