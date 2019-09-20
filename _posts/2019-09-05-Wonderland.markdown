@@ -27,7 +27,7 @@ Fueling up on some delicious home cooked food the night before in my families Ai
 {% highlight raw %}
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
-{% highlight raw %}
+{% endhighlight %}
 
 Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and a family friend joining us till the first junction for some of my side adventures, Frozen Lake. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace to set off on some adventures.
 
