@@ -24,20 +24,15 @@ I finally started looking up routes while eating lunch on my last day of work be
 Fueling up on some delicious home cooked food the night before in my families AirBnB in Packwood, I listed the various options for the peaks I might do the next day to my parents so they would have a sense of where I might be if I didn't show up at our first camp: the three Burroughs, Mount Fremont and its fire lookout, Skyscraper Mountain, and Mineral Mountain. I had no idea what I would end up doing, but I just knew I was starting at Sunrise Visitor Center and ending at Mystic Lake Campground and my day would take place between them.
 
 ## Day 1
-{% highlight raw %}
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
-{% endhighlight %}
-
 Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and a family friend joining us till the first junction for some of my side adventures, Frozen Lake. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace to set off on some adventures.
 
 I got to the Frozen Lake junction to realize that I was already not sufficiently planned. I was at tree line, leaving me no good tree to stash food in if I were to drop pack. I decided to head up towards the three Burroughs with my pack and figure out what to do as I went. Before ascending the Second Burrough I decided to just suspend my stuff sack of food between two rocks on my trekking pole and hope that was sufficient to at least save my food from chipmunks.
 
 Without my pack I quickly ascended and descended the Burroughs, breaking into a jog and a run when possible. I was flying past people on day hikes and caught up to two people on a trail run. I felt great, the weather seemed stable, and the day was still young.
-
 ![Markdowm Image][2]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Third Burrough</figcaption>
-
 My food was fortunately untouched and I jogged off the First Burrough with my pack. Hanging my food on a fence at Frozen Lake I then broke back into stride going out to Mt Fremont Fire Lookout and then scrambling up Mt Fremont.
 
 ![Markdowm Image][3]{: class="bigger-image" }
