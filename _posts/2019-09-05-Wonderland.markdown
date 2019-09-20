@@ -24,8 +24,10 @@ I finally started looking up routes while eating lunch on my last day of work be
 Fueling up on some delicious home cooked food the night before in my families AirBnB in Packwood, I listed the various options for the peaks I might do the next day to my parents so they would have a sense of where I might be if I didn't show up at our first camp: the three Burroughs, Mount Fremont and its fire lookout, Skyscraper Mountain, and Mineral Mountain. I had no idea what I would end up doing, but I just knew I was starting at Sunrise Visitor Center and ending at Mystic Lake Campground and my day would take place between them.
 
 ## Day 1
-![Markdowm Image][1]
+{% highlight raw %}
+![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
+{% highlight raw %}
 
 Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and a family friend joining us till the first junction for some of my side adventures, Frozen Lake. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace to set off on some adventures.
 
