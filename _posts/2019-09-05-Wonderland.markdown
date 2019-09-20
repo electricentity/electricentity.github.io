@@ -11,7 +11,7 @@ category: blog
 author: Michael Reeve
 description: A trail that will always hold memories
 ---
-###A trail that will always hold memories
+### A trail that will always hold memories
 
 I'm not sure when the desire to push myself physically first entered my thoughts; might have been while taking weight to speed up the weakest link in a group heading out to climb Elderado Peak while I was first being introduced to mountaineering or maybe it was my challenge of trying to hit all the side peaks while my family did the Tongariro Crossing. What I do know is that it truly crystallized while climbing Mount Rainier in June, car-to-car in 14 hours, when my climbing partner lamented the fact that his head lamp dying during the night contributed five hours to his 33 hour completion of the Wonderland Trail, a trail my Mom had just won a permit for that I had already invited myself onto.
 
@@ -55,7 +55,7 @@ I rinsed off my dusty legs in the lake, had some dinner, got settled into my ten
 
 We quickly broke camp, accelerated by the beginning of rainfall as we finished with the tents. Wearing rain gear we left camp as I divulged what my plans had been for the day before the rain started, unsure if I would push on to do anything. With some optimism presented by our family friend about the potential for a clearer day after this, hopefully, short rain shower I changed pace and set off for more adventures.
 
-While still being misted upon, I left the trail with my pack and headed up Curtis Ridge to hopefully cool views of Carbon Glacier and Willis Wall. I threw down my pack, run up the last portion of the ridge I had decided I would do and upon returning to my pack doffed layers to just my shorts, shirt, and rain jacket before trotting back down the ridge with my pack.
+While still being misted upon, I left the trail with my pack and headed up Curtis Ridge to hopefully cool views of Carbon Glacier and Willis Wall. I threw down my pack, ran up the last portion of the ridge I had decided I would do, and upon returning to my pack doffed layers to just my shorts, shirt, and rain jacket before trotting back down the ridge with my pack.
 
 ![Markdowm Image][5]{: class="bigger-image" }
 
