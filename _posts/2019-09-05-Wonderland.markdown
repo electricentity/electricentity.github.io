@@ -24,7 +24,7 @@ I finally started looking up routes while eating lunch on my last day of work be
 Fueling up on some delicious home cooked food the night before in my families AirBnB in Packwood, I listed the various options for the peaks I might do the next day to my parents so they would have a sense of where I might be if I didn't show up at our first camp: the three Burroughs, Mount Fremont and its fire lookout, Skyscraper Mountain, and Mineral Mountain. I had no idea what I would end up doing, but I just knew I was starting at Sunrise Visitor Center and ending at Mystic Lake Campground and my day would take place between them.
 
 ## Day 1
-*22.08 miles, 6,224 ft* [Strava][https://www.strava.com/activities/2696879913]
+*22.08 miles, 6,224 ft* [Strava](https://www.strava.com/activities/2696879913)
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
 
@@ -95,7 +95,7 @@ I emptied my hydration pack coming off of Mt Pleasant and opted to just keep pus
 Every stream crossing on the way down tempted me to stop, but I kept going to arrive at the Mowich Campground as it was getting dark. A whole feast of a meal had been cached or brought by a childhood friend who was joining us for the rest of the trip and his parents. I snarfed down a bunch of pasta and vegetables, devoured a variety of desserts, but passed on the beer. Just given the amount of time I spent eating I was the last one up in our group.
 
 ## Day 3
-[*20.08 miles, 6,270 ft*][https://www.strava.com/activities/2706107201]
+[*20.08 miles, 6,270 ft*](https://www.strava.com/activities/2706107201)
 After sorting through the gear and food I had cached for myself at Mowich I broke camp and headed out on the trail with my childhood friend. I wasn't sure of how he would manage on the trail, but he set a decent pace down to Mowich River. I picked up pace heading up towards our camp at Golden Lakes and separated from him.
 
 I got to the camp fairly early, setup my tent to dry out from the morning mist at Mowich, swam in one of the lakes, and fueled up while waiting for others in my group to arrive. When others showed up I set out to explore the ridge going up Rainier above Golden Lakes.
@@ -119,7 +119,7 @@ I continued while whacking my hiking poles together to try to inform any other b
 
 As I was throwing together my food it started to rain which then quickly escalated into a violent thunderstorm. I waited it out under a tree, watching our camp site puddle up and fairly large hail come done. Eventually I moved inside when the tree I was under became saturated and it no longer provided any useful protection from the downpour. Over an hour later, when things had died down I felt comfortable going to hang my food on the metal bear pole and then quickly knocked out in my wet tent.
 
-## [Day 4][https://www.strava.com/activities/2706111285]
+## [Day 4](https://www.strava.com/activities/2706111285)
 *20.26 miles, 7,297 ft*
 
 Everything was wet. My tent was soaked, my rain gear was drenched. Hitting the trail meant walking passed bushes and plants that were happy to dump more buckets of water on me. My spirit was mainly maintained by the hope that the afternoon would be better weather and I would again get to head up a ridge, this time aiming for Takaloo Rock.
