@@ -24,7 +24,7 @@ I finally started looking up routes while eating lunch on my last day of work be
 Fueling up on some delicious home cooked food the night before in my families AirBnB in Packwood, I listed the various options for the peaks I might do the next day to my parents so they would have a sense of where I might be if I didn't show up at our first camp: the three Burroughs, Mount Fremont and its fire lookout, Skyscraper Mountain, and Mineral Mountain. I had no idea what I would end up doing, but I just knew I was starting at Sunrise Visitor Center and ending at Mystic Lake Campground and my day would take place between them.
 
 ## Day 1
-*22.08 miles, 6,224 ft*
+*22.08 miles, 6,224 ft* [Strava][https://www.strava.com/activities/2696879913]
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
 
