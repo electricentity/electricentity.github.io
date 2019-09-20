@@ -25,6 +25,7 @@ Fueling up on some delicious home cooked food the night before in my families Ai
 
 ## Day 1
 ![Markdowm Image][1]{: class="bigger-image" }
+<figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
 
 Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and a family friend joining us till the first junction for some of my side adventures, Frozen Lake. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace to set off on some adventures.
 
@@ -33,11 +34,15 @@ I got to the Frozen Lake junction to realize that I was already not sufficiently
 Without my pack I quickly ascended and descended the Burroughs, breaking into a jog and a run when possible. I was flying past people on day hikes and caught up to two people on a trail run. I felt great, the weather seemed stable, and the day was still young.
 
 ![Markdowm Image][2]{: class="bigger-image" }
+<figcaption class="caption">Mount Rainier from Third Burrough</figcaption>
 
 My food was fortunately untouched and I jogged off the First Burrough with my pack. Hanging my food on a fence at Frozen Lake I then broke back into stride going out to Mt Fremont Fire Lookout and then scrambling up Mt Fremont.
 
 ![Markdowm Image][3]{: class="bigger-image" }
+<figcaption class="caption">Mt Fremont Fire Lookout</figcaption>
+
 ![Markdowm Image][4]{: class="bigger-image" }
+<figcaption class="caption">Mount Rainier from Mt Fremont Fire Lookout with Second and Third Burroughs in the foreground</figcaption>
 
 Consuming some snacks I donned my pack and headed towards Skyscraper Pass between a walk and a jog, not sure what I would be able to maintain today, let alone for the next 8 days. I had pulled out my hiking poles knowing that maintaining my pace and saving my knees were going to be crucial to my enjoyment of this trip. My poles didn't go back into my pack for the rest of the trip.
 
@@ -58,6 +63,10 @@ We quickly broke camp, accelerated by the beginning of rainfall as we finished w
 While still being misted upon, I left the trail with my pack and headed up Curtis Ridge to hopefully cool views of Carbon Glacier and Willis Wall. I threw down my pack, ran up the last portion of the ridge I had decided I would do, and upon returning to my pack doffed layers to just my shorts, shirt, and rain jacket before trotting back down the ridge with my pack.
 
 ![Markdowm Image][5]{: class="bigger-image" }
+<figcaption class="caption">Carbon Glacier</figcaption>
+
+![Markdowm Image][6]{: class="bigger-image" }
+<figcaption class="caption">Old Desolate from Curtis Ridge</figcaption>
 
 Shortly after returning to the trail I threw my pack under a tree and started ascending a creek bed and then a talus field on the way to the top of Old Desolate. The loose, wet rock made progress slow and hitting the ridge two peaks away from the summit damped my spirits more than my soaked clothes already had. I reached the summit, but the highlight was likely turning back towards my pack as I was cold and hungry.
 
@@ -67,8 +76,8 @@ I rested briefly, hydrated, and packed a small day pack my Dad had let me borrow
 
 I had no better plan for the day, so I continued on. Heading out up a snow field my dedication to continuing on was rewarded by Observation Rock flirting with me through the clouds. I soon discovered I was in fact on Flett Glacier and traversed the rest of it with significantly more care. As I rounded the back of Observation Rock the clouds were fairly dispersed providing great views down the mountain and over the surrounding wilderness.
 
-![Markdowm Image][6]{: class="bigger-image" }
 ![Markdowm Image][7]{: class="bigger-image" }
+<figcaption class="caption">Observation Rock over Flett Glacier</figcaption>
 
 I descended off Observation Rock with some bounce in my step and made a quick scramble up Echo Rock before returning down the edge of Flett Glacier and heading down towards my pack with beautiful views of Spray Park and Mother Mountain beckoning me onward. I wasn't sure what my plan was after Echo Rock, but I aimed for Knapsack Pass and First Mother Mountain. I missed a turn towards Knapsack, but decided it would just give me the opportunity to also include Hessong Rock and Mt Pleasant.
 
@@ -78,7 +87,7 @@ I emptied my hydration pack coming off of Mt Pleasant and opted to just keep pus
 
 Every stream crossing on the way down tempted me to stop, but I kept going to arrive at the Mowich Campground as it was getting dark. A whole feast of a meal had been cached or brought by a childhood friend who was joining us for the rest of the trip and his parents. I snarfed down a bunch of pasta and vegetables, devoured a variety of desserts, but passed on the beer. Just given the amount of time I spent eating I was the last one up in our group.
 
-##Day 3
+## Day 3
 
 After sorting through the gear and food I had cached for myself at Mowich I broke camp and headed out on the trail with my childhood friend. I wasn't sure of how he would manage on the trail, but he set a decent pace down to Mowich River. I picked up pace heading up towards our camp at Golden Lakes and separated from him.
 
@@ -94,7 +103,7 @@ I continued while whacking my hiking poles together to try to inform any other b
 
 As I was throwing together my food it started to rain which then quickly escalated into a violent thunderstorm. I waited it out under a tree, watching our camp site puddle up and fairly large hail come done. Eventually I moved inside when the tree I was under became saturated and it no longer provided any useful protection from the downpour. Over an hour later, when things had died down I felt comfortable going to hang my food on the metal bear pole and then quickly knocked out in my wet tent.
 
-Day 4:
+## Day 4
 
 Everything was wet. My tent was soaked, my rain gear was drenched. Hitting the trail meant walking passed bushes and plants that were happy to dump more buckets of water on me. My spirit was mainly maintained by the hope that the afternoon would be better weather and I would again get to head up a ridge, this time aiming for Takaloo Rock.
 
@@ -108,7 +117,7 @@ I started to dislike the idea about a third of the way down, but something kept 
 
 Returned to camp in a good mood, although everyone was so cold we were all just holed up in our tests.
 
-##Day 5
+## Day 5
 
 Everything was still wet. We were all wet. I hiked with everyone else because I wasn't quite sure if people would want to just hike out to Longmire rather than staying at our reserved campsite at Devil's Dream. After reaching the suspension bridge at Tahoma Creek it became clear we were going to stay at Devil's Dream. I knew there were some small peaks around Devil's Dream so figured if I still pushed ahead I could maybe do a couple if they weather got any better.
 
@@ -118,7 +127,7 @@ After setting up my tent in camp my spirits lifted slightly but I had made the u
 
 We just napped, read, and ate food through the end of the afternoon until it was somewhat more appropriately dark to go to bed.
 
-##Day 6
+## Day 6
 
 We were going to be dry! My Mom had booked rooms in the Longmire Inn which meant we would have normal hot meals, a shower, a warm bed, and the opportunity to dry out all of our gear before continuing on. I hit the trail with the key to the car we had stashed at Longmire and got down the roughly 5 miles in an hour an a half. Dropped pack in the car, filled up some water, and leached some WiFi at the ranger station to briefly check-in on work.
 
@@ -132,7 +141,7 @@ On the way down I was greeted by some rain before entering the forest again, but
 
 Happily enjoyed the room to dry all my gear in, a warm shower, and some salty potato chips before getting a warm dinner of non-rehydrated food and some delicious dessert.
 
-##Day 7
+## Day 7
 
 We ate breakfast as soon as the Inn started serving and hit the trail soon after. I quickly pulled away to try to gain some sort of a lead before Reflection Lakes where I was going to turn up towards Pinnacle Peak and the rest of the Tatoosh Range.
 
@@ -148,7 +157,7 @@ I turned back for a much quicker traverse back to Pinnacle having found the main
 
 As I started to get going I realized that at this point walking down hill was more uncomfortable for me than jogging, so off I went. I think I did the whole way from Reflection Lake to Nickle Creek Camp with my pack in a little over two hours, which meant I showed up at a reasonable time and we were actually able to enjoy a bit of camp time given it was still light and everything was still dry.
 
-##Day 8
+## Day 8
 
 Waking up I knew this was really the last day that I would get to push it. Day 9 would be getting to the car which would mean everyone else would be ready to leave once they got there and wouldn’t want to wait around until I was done doing some silly adventure. I headed out of camp with some determination and tried to crush some miles towards Indian Bar. 
 
@@ -168,7 +177,7 @@ Meany Crest, was in fact quite mean. The entire route was talus with small stret
 
 I arrived back in camp for an interesting attempt at a group photo as darkness descending, a quick dinner, and a pestering mouse before passing out.
 
-##Day 9
+## Day 9
 
 A light mist was falling as I woke up, but in all honesty I didn’t really care. All my gear could get as wet as possible and I would still be inside a dry car by mid-afternoon. I decided to skip ascending Goat Island Mountain given I would just be in a cloud and had already done enough of that for the trip. 
 
@@ -179,8 +188,6 @@ With hours of driving to retrieve cars left around the park, we quickly loaded u
 
 
 This journey definitely pushed me in ways I have never been pushed before. I know I have a tremendous amount to learn about how to manage my body and my mind on long term physical exertions. The ups and downs are something I want to learn to cherish; 
-
-![Markdowm Image][6]{: class="bigger-image" }
 
 
 
