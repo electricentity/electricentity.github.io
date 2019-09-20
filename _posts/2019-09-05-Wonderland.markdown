@@ -11,7 +11,7 @@ category: blog
 author: Michael Reeve
 description: A trail that will always hold memories
 ---
-### A trail that will always hold memories
+### *A trail that will always hold memories*
 
 I'm not sure when the desire to push myself physically first entered my thoughts; might have been while taking weight to speed up the weakest link in a group heading out to climb Elderado Peak while I was first being introduced to mountaineering or maybe it was my challenge of trying to hit all the side peaks while my family did the Tongariro Crossing. What I do know is that it truly crystallized while climbing Mount Rainier in June, car-to-car in 14 hours, when my climbing partner lamented the fact that his head lamp dying during the night contributed five hours to his 33 hour completion of the Wonderland Trail, a trail my Mom had just won a permit for that I had already invited myself onto.
 
@@ -23,8 +23,9 @@ I finally started looking up routes while eating lunch on my last day of work be
 
 Fueling up on some delicious home cooked food the night before in my families AirBnB in Packwood, I listed the various options for the peaks I might do the next day to my parents so they would have a sense of where I might be if I didn't show up at our first camp: the three Burroughs, Mount Fremont and its fire lookout, Skyscraper Mountain, and Mineral Mountain. I had no idea what I would end up doing, but I just knew I was starting at Sunrise Visitor Center and ending at Mystic Lake Campground and my day would take place between them.
 
-## Day 1
-*22.08 miles, 6,224 ft* [Strava](https://www.strava.com/activities/2696879913)
+## [Day 1](https://www.strava.com/activities/2696879913)
+*22.08 miles, 6,224 ft*
+
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
 
@@ -57,8 +58,9 @@ I watched a helicopter bringing loads of gear to Mystic Lake below me from the t
 
 I rinsed off my dusty legs in the lake, had some dinner, got settled into my tent, and fell asleep while comparing maps with route descriptions for objectives to hit between Mystic Lake and Mowich Lake.
 
-## Day 2
+## [Day 2](https://www.strava.com/activities/2706103320)
 *24.53 miles, 11,020 ft*
+
 We quickly broke camp, accelerated by the beginning of rainfall as we finished with the tents. Wearing rain gear we left camp as I divulged what my plans had been for the day before the rain started, unsure if I would push on to do anything. With some optimism presented by our family friend about the potential for a clearer day after this, hopefully, short rain shower I changed pace and set off for more adventures.
 
 While still being misted upon, I left the trail with my pack and headed up Curtis Ridge to hopefully cool views of Carbon Glacier and Willis Wall. I threw down my pack, ran up the last portion of the ridge I had decided I would do, and upon returning to my pack doffed layers to just my shorts, shirt, and rain jacket before trotting back down the ridge with my pack.
@@ -94,8 +96,9 @@ I emptied my hydration pack coming off of Mt Pleasant and opted to just keep pus
 
 Every stream crossing on the way down tempted me to stop, but I kept going to arrive at the Mowich Campground as it was getting dark. A whole feast of a meal had been cached or brought by a childhood friend who was joining us for the rest of the trip and his parents. I snarfed down a bunch of pasta and vegetables, devoured a variety of desserts, but passed on the beer. Just given the amount of time I spent eating I was the last one up in our group.
 
-## Day 3
-[*20.08 miles, 6,270 ft*](https://www.strava.com/activities/2706107201)
+## [Day 3](https://www.strava.com/activities/2706107201)
+*20.08 miles, 6,270 ft*
+
 After sorting through the gear and food I had cached for myself at Mowich I broke camp and headed out on the trail with my childhood friend. I wasn't sure of how he would manage on the trail, but he set a decent pace down to Mowich River. I picked up pace heading up towards our camp at Golden Lakes and separated from him.
 
 I got to the camp fairly early, setup my tent to dry out from the morning mist at Mowich, swam in one of the lakes, and fueled up while waiting for others in my group to arrive. When others showed up I set out to explore the ridge going up Rainier above Golden Lakes.
@@ -134,7 +137,7 @@ I started to dislike the idea about a third of the way down, but something kept 
 
 Returned to camp in a good mood, although everyone was so cold we were all just holed up in our tests.
 
-## Day 5
+## [Day 5](https://www.strava.com/activities/2706114380)
 *13.21 miles, 3,540 ft*
 
 Everything was still wet. We were all wet. I hiked with everyone else because I wasn't quite sure if people would want to just hike out to Longmire rather than staying at our reserved campsite at Devil's Dream. After reaching the suspension bridge at Tahoma Creek it became clear we were going to stay at Devil's Dream. I knew there were some small peaks around Devil's Dream so figured if I still pushed ahead I could maybe do a couple if they weather got any better.
@@ -145,7 +148,7 @@ After setting up my tent in camp my spirits lifted slightly but I had made the u
 
 We just napped, read, and ate food through the end of the afternoon until it was somewhat more appropriately dark to go to bed.
 
-## Day 6
+## [Day 6](https://www.strava.com/activities/2706118006)
 *20.07 miles, 6,073 ft*
 
 We were going to be dry! My Mom had booked rooms in the Longmire Inn which meant we would have normal hot meals, a shower, a warm bed, and the opportunity to dry out all of our gear before continuing on. I hit the trail with the key to the car we had stashed at Longmire and got down the roughly 5 miles in an hour an a half. Dropped pack in the car, filled up some water, and leached some WiFi at the ranger station to briefly check-in on work.
@@ -163,7 +166,7 @@ On the way down I was greeted by some rain before entering the forest again, but
 
 Happily enjoyed the room to dry all my gear in, a warm shower, and some salty potato chips before getting a warm dinner of non-rehydrated food and some delicious dessert.
 
-## Day 7
+## [Day 7](https://www.strava.com/activities/2706122664)
 *22.74 miles, 8,474 ft*
 
 We ate breakfast as soon as the Inn started serving and hit the trail soon after. I quickly pulled away to try to gain some sort of a lead before Reflection Lakes where I was going to turn up towards Pinnacle Peak and the rest of the Tatoosh Range.
@@ -190,8 +193,9 @@ I turned back for a much quicker traverse back to Pinnacle having found the main
 
 As I started to get going I realized that at this point walking down hill was more uncomfortable for me than jogging, so off I went. I think I did the whole way from Reflection Lake to Nickle Creek Camp with my pack in a little over two hours, which meant I showed up at a reasonable time and we were actually able to enjoy a bit of camp time given it was still light and everything was still dry.
 
-## Day 8
+## [Day 8](https://www.strava.com/activities/2706129116)
 *23.5 miles, 11,112 ft*
+
 Waking up I knew this was really the last day that I would get to push it. Day 9 would be getting to the car which would mean everyone else would be ready to leave once they got there and wouldn’t want to wait around until I was done doing some silly adventure. I headed out of camp with some determination and tried to crush some miles towards Indian Bar. 
 
 I didn’t feel as light as I had the days before and the hills were starting to really take a toll on me. I did my best to push through and not have to stop but I needed some more calories and a second to catch my breath. I felt better as the trees thinned and the sun rose higher to light up a beautiful clear blue sky. 
@@ -231,8 +235,9 @@ Meany Crest, was in fact quite mean. The entire route was talus with small stret
 
 I arrived back in camp for an interesting attempt at a group photo as darkness descending, a quick dinner, and a pestering mouse before passing out.
 
-## Day 9
+## [Day 9](https://www.strava.com/activities/2706237038)
 *20.82 miles, 5,118 ft*
+
 A light mist was falling as I woke up, but in all honesty I didn’t really care. All my gear could get as wet as possible and I would still be inside a dry car by mid-afternoon. I decided to skip ascending Goat Island Mountain given I would just be in a cloud and had already done enough of that for the trip. 
 
 Set off down the trail hoping to get my 20 miles in as I was pretty sure that was what would be necessary to double the normal length of the Wonderland Trail over the course of the trip. I was time limited so I decided to just stick to the trail and hope to be able to descend back from Sunshine Visitor Center to White River and then climb back up without making my group wait at the car. 
