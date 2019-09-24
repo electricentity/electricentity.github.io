@@ -13,15 +13,15 @@ description: A trail that will always hold memories
 ---
 ### *A trail that will always hold memories*
 
-I'm not sure when the desire to push myself physically first entered my thoughts; might have been while taking weight to speed up the weakest link in a group heading out to climb Elderado Peak while I was first being introduced to mountaineering or maybe it was my challenge of trying to hit all the side peaks while my family did the Tongariro Crossing. What I do know is that it truly crystallized while climbing Mount Rainier in June, car-to-car in 14 hours, when my climbing partner lamented the fact that his head lamp dying during the night contributed five hours to his 33 hour completion of the Wonderland Trail, a trail my Mom had just won a permit for that I had already invited myself onto.
+I'm not sure when the desire to push myself physically first entered my thoughts. Perhaps it was while taking weight to speed up the weakest link in a group heading out to climb Elderado Peak when I was first being introduced to mountaineering or maybe it was my challenge of trying to hit all the side peaks while my family did the Tongariro Crossing. What I do know is that it truly crystallized while climbing Mount Rainier in June, car-to-car in 14 hours. My climbing partner waws lamenting about the fact that his head lamp dying during the night contributed five hours to his 33 hour completion of the Wonderland Trail, a trail my Mom had just won a permit and I had already invited myself onto.
 
- I had originally signed on to the 8-night permit in order to spend time with my parents and I didn't want to deviate from that goal. So at no point was I going to be going for speed or trying to set an impressive time, but with the thought that those were things people were doing on this trail, I realized in some way this would be my opportunity to taste what really pushing myself could be like.
+ I had originally signed on to the 8-night permit in order to spend time with my parents and I didn't want to deviate from that goal. So at no point was I going to be going for speed or trying to set an impressive time, but knowing that those were things people were doing on this trail, I realized in some way this would be my opportunity to taste what really pushing myself could be like.
 
 I put little thought into the trip even after an email to those on the permit with an [article](https://www.msn.com/en-us/travel/article/infinity-war-how-two-women-beat-mt-rainiers-toughest-challenge/ar-AAFCSZy?ocid=spartanntp) detailing the completion by two women of the Rainier Infinity Loop, climbing over Rainier twice and doing the Wonderland Trail. On calls with my parents they would suggest maybe exploring a couple different areas, but I committed to nothing and I had no real plan in place. The week before my Dad started sending me trip reports of hikes and runs people had done, but I didn’t do much more than scan what was provided.
 
-I finally started looking up routes while eating lunch on my last day of work before the trip. I reviewed emails I had received, searched for trip reports and came across what would be my warden, [*Guide to 100 Peaks at Mount Rainier*](https://sites.google.com/site/guideto100peaks/home). Heading to the airport after work I still didn't know what I was setting out to do, but I at least had a couple peaks picked out for the first day, several maps of the park, and a book of route descriptions to lead the way. 
+I finally started looking up routes while eating lunch on my last day of work before the trip. I reviewed emails I had received, searched for trip reports and came across what would be my warden, [*Guide to 100 Peaks at Mount Rainier*](https://sites.google.com/site/guideto100peaks/home). Heading to the airport after work I still didn't know what I was setting out to do, but at least I had a couple peaks picked out for the first day, several maps of the park, and a book of route descriptions to lead the way. 
 
-Fueling up on some delicious home cooked food the night before in my families AirBnB in Packwood, I listed the various options for the peaks I might do the next day to my parents so they would have a sense of where I might be if I didn't show up at our first camp: the three Burroughs, Mount Fremont and its fire lookout, Skyscraper Mountain, and Mineral Mountain. I had no idea what I would end up doing, but I just knew I was starting at Sunrise Visitor Center and ending at Mystic Lake Campground and my day would take place between them.
+Fueling up on some delicious home cooked food the night before in my families AirBnB in Packwood, I listed the various options for the peaks I might do the next day to my parents, so they would have a sense of where I might be if I didn't show up at our first camp: the three Burroughs, Mount Fremont and its fire lookout, Skyscraper Mountain, and Mineral Mountain. I had no idea what I would end up doing, but I just knew I was starting at Sunrise Visitor Center and ending at Mystic Lake Campground and my day would take place between them.
 
 ## [Day 1](https://www.strava.com/activities/2696879913)
 *22.08 miles, 6,224 ft*
@@ -29,7 +29,7 @@ Fueling up on some delicious home cooked food the night before in my families Ai
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
 
-Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and a family friend joining us till the first junction for some of my side adventures, Frozen Lake. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace to set off to begin my journey.
+Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and the family friend joining us till Frozan Lake, the first junction for some of my side adventures. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace and set off for the begin of my journey.
 
 I got to the Frozen Lake junction to realize that I was already hadn't planned appropriately . I was at tree line, leaving me no good tree to stash food in if I were to drop pack. I decided to head up towards the three Burroughs with my pack and figure out what to do as I went. Before ascending the Second Burrough I decided to just suspend my stuff sack of food between two rocks on my trekking pole and hope that was sufficient to at least save my food from chipmunks.
 
@@ -38,7 +38,7 @@ Without my pack I quickly ascended and descended the Burroughs, breaking into a 
 ![Markdowm Image][2]{: class="bigger-image" }
 <figcaption class="caption">From the Third Burrough</figcaption>
 
-My food was fortunately untouched and I jogged off the First Burrough with my pack. After hanging my food on a fence at Frozen Lake I broke back into stride going out to Mt Fremont Fire Lookout and then scrambling up Mt Fremont.
+My food was fortunately untouched when I returned to it and I jogged off the First Burrough with my pack. After hanging my food on a fence at Frozen Lake I broke back into stride going out to Mt Fremont Fire Lookout and then scrambling up Mt Fremont.
 
 ![Markdowm Image][3]{: class="bigger-image" }
 <figcaption class="caption">Mt Fremont Fire Lookout</figcaption>
@@ -46,13 +46,13 @@ My food was fortunately untouched and I jogged off the First Burrough with my pa
 ![Markdowm Image][4]{: class="bigger-image" }
 <figcaption class="caption">From Mt Fremont Fire Lookout with Second and Third Burroughs in the foreground</figcaption>
 
-Consuming some snacks, I donned my pack and headed towards Skyscraper Pass between a walk and a jog, not sure what I would be able to keep up for the rest of the today, let alone maintian for the next 8 days. I had pulled out my hiking poles knowing that maintaining my pace and saving my knees were going to be crucial to my enjoyment of this trip. Throughout the trip they were never put away.
+Consuming some snacks, I donned my pack and headed towards Skyscraper Pass between a walk and a jog, not sure what I would be able to keep up for the rest of the today, let alone maintian for the next 8 days. I had pulled out my hiking poles knowing that maintaining my pace and saving my knees were going to be crucial to my enjoyment of this trip and they were then never put away.
 
 Skyscraper Mountain was fairly short and simple, although even without pack the steepness made me realize continuing at this cadence throughout the trip would require a lot of effort and end up being grueling.
 
 Descending from Skyscraper Pass I had no more plans before camp, so I braced myself for a slog with my backpack and wondered how far ahead the rest of the group had gotten. I was exhilarated by my perceived success so far and cruised to Winthrop Creek. I was thrilled by my ability to maintain a decent pace up the other side of the valley and started guessing what time I would catch up with everyone else.
 
-Arriving at camp right as my parents did I dropped pack, hydrated, and chatted for a bit before heading on towards where the "Guide to 100 Peaks at Mount Rainier" instructed me to leave trail for Mineral Mountian.
+Arriving at camp right as my parents did, I dropped pack, hydrated, and chatted for a bit before heading on towards where the "Guide to 100 Peaks at Mount Rainier" instructed me to leave trail for Mineral Mountian.
 
 From the top of Minearl Mountain I watched a helicopter bringing loads of gear to Mystic Lake below me and I descended into a more restful mental state from my amped up energy level of the day. Upon returning to camp we ventured to the Patrol Cabin for views of Rainier and enjoyed some pre-dinner snacks while talking trails around Washington with two rangers and a fellow hiker.
 
@@ -61,9 +61,9 @@ I rinsed off my dusty legs in the lake, had some dinner, got settled into my ten
 ## [Day 2](https://www.strava.com/activities/2706103320)
 *24.53 miles, 11,020 ft*
 
-We quickly broke camp, accelerated by the beginning of rainfall as we finished with the tents. Wearing rain gear we left camp as I divulged what my plans had been for the day before the rain started, unsure if I would push on to do anything now that we were soaked. With some optimism presented by our family friend about the potential for a clearer day ahead I changed pace and set off for more adventures.
+We quickly broke camp, accelerated by the beginning of rainfall as we finished with the tents. Wearing rain gear we left camp as I divulged what my plans had been for the day before the rain started, unsure if I would push on to do anything now that we were soaked. With some optimism provided by my family friend about the potential for a clearer day ahead I changed pace and set off for more adventures.
 
-While still being misted upon, I left the trail with my pack and headed up Curtis Ridge to hopefully cool views of Carbon Glacier and Willis Wall. I threw down my pack, ran up the last portion of the ridge I had decided I would do, and upon returning to my pack doffed layers to just my shorts, shirt, and rain jacket before trotting back down the ridge with my pack.
+While still being misted upon, I left the trail with my pack and headed up Curtis Ridge to hopefully cool views of Carbon Glacier and Willis Wall. Most of the way up I threw down my pack, ran up the last portion of the ridge I had decided I would do, and upon returning to my pack doffed layers to just my shorts, shirt, and rain jacket before trotting back down the ridge with my pack.
 
 ![Markdowm Image][5]{: class="bigger-image" }
 <figcaption class="caption">Carbon Glacier</figcaption>
@@ -85,7 +85,7 @@ I had no better plan for the day, so I continued on. Heading out up a snow field
 ![Markdowm Image][24]{: class="bigger-image" }
 <figcaption class="caption">Echo Rock</figcaption>
 
-I descended off Observation Rock with some bounce in my step and made a quick scramble up Echo Rock before returning down the edge of Flett Glacier and heading down towards my pack with beautiful views of Spray Park and Mother Mountain beckoning me onward. I wasn't sure what my plan was but I aimed for Knapsack Pass and First Mother Mountain. I missed a turn towards Knapsack, but decided it would just give me the opportunity to also include Hessong Rock and Mt Pleasant.
+I descended off Observation Rock with some bounce in my step and made a quick scramble up Echo Rock before returning down the edge of Flett Glacier and heading down towards my pack with beautiful views of Spray Park and Mother Mountain beckoning me onward. I wasn't sure what my plan was, but I aimed for Knapsack Pass and First Mother Mountain. I missed a turn towards Knapsack, but decided it would just give me the opportunity to also include Hessong Rock and Mt Pleasant.
 
 ![Markdowm Image][8]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Mt Pleasant</figcaption>
@@ -95,18 +95,18 @@ A marine layer was forming, but fortunately everything I still wanted to do rema
 ![Markdowm Image][9]{: class="bigger-image" }
 <figcaption class="caption">Marine Layer</figcaption>
 
-I emptied my hydration pack coming off of Mt Pleasant and opted to just keep pushing in order to try to make it to Mowich Lake before dark and avoid worrying my Mom. I was feeling the lack of water at Knapsack Pass and carried my pack up a bit farther towards First Mother Mountain to avoid leaving it near the pass where I had encountered a couple mountain goats. After First Mother Mountain my only goal was descending as quickly as possible to get to camp to refuel and pass out.
+I emptied my hydration pack coming off of Mt Pleasant and opted to just keep pushing in order to try to make it to Mowich Lake before dark and avoid worrying my Mom. I was feeling the lack of water at Knapsack Pass and had to carry my pack up a bit farther towards First Mother Mountain to avoid leaving it near the pass where I had encountered a couple mountain goats. After First Mother Mountain my only goal was descending as quickly as possible to camp to refuel and pass out.
 
-Every stream crossing on the way down tempted me to stop, but I kept going to arrive at the Mowich Campground as it was getting dark. A whole feast of a meal had been cached or brought by a childhood friend who was joining us for the rest of the trip and his parents. I snarfed down a bunch of pasta and vegetables, devoured a variety of desserts, but passed on the beer. Just given the amount of time I spent eating I was the last one up in our group.
+Every stream crossing on the way down tempted me to stop, but I kept going to arrive at the Mowich Campground right as it was getting dark. A whole feast of a meal had been cached or brought by a childhood friend who was joining us for the rest of the trip and his parents. I snarfed down a bunch of pasta and vegetables, devoured a variety of desserts, but passed on the beer. Just given the amount of time I spent eating I was the last one up in our group.
 
 ## [Day 3](https://www.strava.com/activities/2706107201)
 *20.08 miles, 6,270 ft*
 
 After sorting through the gear and food I had cached for myself at Mowich, I broke camp and headed out on the trail with my childhood friend. I wasn't sure of how he would manage on the trail, but he set a decent pace down to Mowich River. I picked up pace heading up towards our camp at Golden Lakes and separated from him.
 
-I got to the camp fairly early, setup my tent to dry out from the morning mist at Mowich, swam in one of the lakes, and fueled up while waiting for others in my group to arrive. When others showed up I set out to explore the ridge going up Rainier above Golden Lakes.
+I got to the camp fairly early, setup my tent to dry out from the morning mist at Mowich, swam in one of the lakes, and fueled up while waiting for others in my group to arrive. When others showed up I set out to explore the ridge going up towards Rainier above Golden Lakes.
 
-After leaving the trail a bit past Golden Lakes and partway up towards the ridge I was startled by the sudden sound of a galloping bear tearing off down the slope away from me, only catching a brief glimpse of black flashing between trees as it went. I realized I probably should be paying a bit more attention for bears, but my heart rate quickly settled and I continued pushing on.
+After leaving the trail a bit past Golden Lakes and partway up towards the ridge I was startled by the sudden sound of a galloping bear tearing off down the slope away from me, only catching a brief glimpse of black flashing between trees as it went. I realized I should probably be paying a bit more attention for bears, but my heart rate quickly settled and I continued pushing on.
 
 ![Markdowm Image][10]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier up Sunset Park</figcaption>
@@ -116,14 +116,14 @@ Once on the ridge I was having nothing but a blast. A small boot track seemed to
 ![Markdowm Image][11]{: class="bigger-image" }
 <figcaption class="caption">From the last peak of the day</figcaption>
 
-The evening marine layer was starting to roll in, but on the way back down I was able to see another two new bears below me. As I was starting to descend off the ridge I entered some open meadows and had to dodge around a bear that was quite content occupying my direct route back towards the trail.
+The evening marine layer was starting to roll in, but on the way back down I was able to see two other bears below me. As I was starting to descend off the ridge I entered some open meadows and had to dodge around a bear that was quite content occupying my direct route back towards the trail.
 
-I continued while whacking my hiking poles together to try to inform any other bears in the mist that I was present and after hitting the trail I broke back into a run. Most of the way back to camp I turned a corner and just down the trail was a bear. I don't think it cared in the least that I had been making noise, nor did it care that I was continuing to clap, yell, and plead with it to leave the trail. Several minutes, later after it had eventually sauntered off 20 ft from the trail and I could squeeze by, I made my move and returned to camp.
+I continued while whacking my hiking poles together to try to inform any other bears in the mist that I was present and after hitting the trail I broke back into a run. Most of the way back to camp I turned a corner and just down the trail was a bear. I don't think it cared in the least that I had been making noise, nor did it care that I was continuing to clap, yell, and plead with it to leave the trail. Several minutes later, after it had eventually sauntered off 20 ft from the trail and I could squeeze by, I made my move and returned to camp.
 
 ![Markdowm Image][12]{: class="bigger-image" }
 <figcaption class="caption">Finally got the bear off the trail</figcaption>
 
-As I was throwing together my food it started to rain which then quickly escalated into a violent thunderstorm. I waited it out under a tree, watching our camp site puddle up and fairly large hail come down. I moved inside my tent when the tree I was under became saturated and it no longer provided any useful protection from the downpour. Over an hour later, when things had died down, I felt comfortable going to hang my food on the metal bear pole and then quickly knocked out in my wet tent.
+As I was throwing together my food it started to rain and then quickly escalated into a violent thunderstorm. I waited it out under a tree, watching our camp site puddle up and fairly large hail come down. I moved inside my tent when the tree I was under became saturated and it no longer provided any useful protection from the downpour. Over an hour later, when things had died down, I felt comfortable going to hang my food on the metal bear pole and then quickly knocked out in my wet tent.
 
 ## [Day 4](https://www.strava.com/activities/2706111285)
 *20.26 miles, 7,297 ft*
