@@ -13,6 +13,8 @@ description: A trail that will always hold memories
 ---
 ### *A trail that will always hold memories*
 
+![Markdowm Image][25]{: class="bigger-image" }
+
 I'm not sure when the desire to push myself physically first entered my thoughts. Perhaps it was while taking weight to speed up the weakest link in a group heading out to climb Elderado Peak when I was first being introduced to mountaineering or maybe it was my challenge of trying to hit all the side peaks while my family did the Tongariro Crossing. What I do know is that it truly crystallized while climbing Mount Rainier in June, car-to-car in 14 hours. My climbing partner waws lamenting about the fact that his head lamp dying during the night contributed five hours to his 33 hour completion of the Wonderland Trail, a trail my Mom had just won a permit and I had already invited myself onto.
 
  I had originally signed on to the 8-night permit in order to spend time with my parents and I didn't want to deviate from that goal. So at no point was I going to be going for speed or trying to set an impressive time, but knowing that those were things people were doing on this trail, I realized in some way this would be my opportunity to taste what really pushing myself could be like.
@@ -274,3 +276,4 @@ This journey definitely pushed me in ways I have never been pushed before. I kno
 [22]: https://lh3.googleusercontent.com/yyJFgkKWpwkwNQkQbIi7EcATaD67TVC_s4s6p50b1In8q4N0QLkCwJ9LzUFXh3fIu4_5son3zeyvT3tmE9ozqvVQU8DgsLLPYuS2osL-WS6w8qAJZ7Q2y3FlqDIqGNjk1v43ZNGa6Q=w2400
 [23]: https://lh3.googleusercontent.com/uFJyfziX9FYc8yQ2pS5m_wJIrHQNLoPbS2Pmijh2TdVCtyFqNy8d2G50PbYlJsg5oKRlw3pmufMkEcov7jaXeFP3TuM-mtXYLwCB4Vx6r2jOcKZfmWDPV8u7Pipb8NIzS6MBO1jbbQ=w2400
 [24]: https://lh3.googleusercontent.com/2XOvNlAy_CHgel2VcbqEBp8arcMyNjIpUfzTSl9-mhCnv206dZ8mnXVIAbXfNV83syQNvwA_HjdOn4_ghkNke9nmYjDGBFnZiBbT_Ow1S1nbB8WeH8lgX9Maz0Og5VrsCNlGweK8cw=w2400
+[25]: https://lh3.googleusercontent.com/-uOQSe-WY3EE39FFtZIiYoMwQFbeStv1QxYtpi0B4IR4mua3izVUn9tJ1-LxGlIA0pkE-Q4MV5Zk2F0cYfvg3EW8jvEDx0CP6zjo0icE8qo0IuTgEmUSgaAyvJSx2NcTXsuXju-Msw=w2400
