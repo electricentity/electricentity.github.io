@@ -50,7 +50,7 @@ My food was fortunately untouched when I returned to it and I jogged off the Fir
 
 Consuming some snacks, I donned my pack and headed towards Skyscraper Pass between a walk and a jog, not sure what I would be able to keep up for the rest of the today, let alone maintain for the next 8 days. I had pulled out my hiking poles knowing that maintaining my pace and saving my knees were going to be crucial to my enjoyment of this trip and they were then never put away.
 
-Skyscraper Mountain was short and simple, although even without pack the steepness made me realize continuing at this cadence throughout the trip would require a lot of effort and end up being grueling.
+Skyscraper Mountain was short and simple, although even without my pack the steepness made me realize continuing at this cadence throughout the trip would require a lot of effort and end up being grueling.
 
 Descending from Skyscraper Pass I had no more plans before camp, so I braced myself for a slog with my backpack and wondered how far ahead the rest of the group had gotten. I was exhilarated by my perceived success so far and cruised to Winthrop Creek. I was thrilled by my ability to maintain a decent pace up the other side of the valley and started guessing what time I would catch up with everyone else.
 
