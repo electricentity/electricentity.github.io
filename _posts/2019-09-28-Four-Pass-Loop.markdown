@@ -47,7 +47,7 @@ The weather was incredible: some clouds but mainly just sun, light breeze only p
 ![Markdowm Image][7]{: class="bigger-image" }
 <figcaption class="caption">North Fork of Crystal River</figcaption>
 
-I did a fairly terrible job of hydrating and fueling all day because I was trying to just avoid the side ache from getting any worse. I didn’t filter water until probably 20 miles in, after Frigid Air Pass, and all I managed to eat all day was half a Clif bar and a pack of Clif energy chews. My energy level was pretty low all day and it was taking a lot of mental effort battling my body to run stretches at a time to maintain a decent pace.
+I did a fairly terrible job of hydrating and fueling all day because I was trying to just avoid the side ache from getting any worse. I didn’t filter water until probably 20 miles in, after Frigid Air Pass, and all I managed to eat throughout the day was half a Clif bar and a pack of Clif energy chews. My energy level was pretty low and it was taking a lot of mental effort battling my body to run stretches at a time to maintain a decent pace.
 
 After coming over West Maroon Pass, the last pass of the day, I realized I needed to maintain a fast pace going down and really pushed myself to continue running stretches while going down even though my legs were pretty tired and I had very little energy.
 
