@@ -15,7 +15,7 @@ description: Four Passes, One Side Ache
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">North Maroon Peak</figcaption>
 
-*27.01 miles, 7,756 ft*
+*27 miles, 7,756 ft*
 
  [Strava](https://www.strava.com/activities/2747743782)
 
