@@ -15,7 +15,9 @@ description: Four Passes, One Side Ache
 ![Markdowm Image][1]{: class="bigger-image" }
 
 *27.01 miles, 7,756 ft*
+
 [Strava](https://www.strava.com/activities/2747743782)
+<figcaption class="caption">North Maroon Peak</figcaption>
 
 
 Since moving to Colorado I have heard that the Four Pass Loop is one of the best trails to backpack. For some reason, before I was in remotely good enough shape or knew anything besides the name of the trail, I decided I wanted to run it.
@@ -27,29 +29,34 @@ I didn’t want to do the planning for going camping beforehand, so I instead wo
 I finally hit the trail around 8:30 with the last bus down to my car at 5pm, although I could probably always hitchhike down the 8 miles if worse came to worst. I slowly made my way through hordes of people going up to the Maroon Bells for fall colors. Several miles in, a little passed the split where I decided to follow the route I had read and go CCW around the loop, the crowds thinned to just people who were backpacking the loop.
 
 ![Markdowm Image][2]{: class="bigger-image" }
+<figcaption class="caption">Snowpass Creek</figcaption>
 
 I developed a side ache, yet another thing I need to work on learning how to properly deal with, going up to the first pass. I was unable to completely rid myself of it almost all day. I might be able to hit stride going downhill, but as soon as I was putting in much effort I could feel it rekindle. 
 
 ![Markdowm Image][3]{: class="bigger-image" }
+<figcaption class="caption">Snowpass Peak</figcaption>
 ![Markdowm Image][4]{: class="bigger-image" }
+<figcaption class="caption">Snowpass Lake</figcaption>
 
 The weather was incredible: some clouds but mainly just sun, light breeze only picking up right at the passes, and basically perfect temperatures all day preventing me from getting too hot. The scenery was a treat to run through with all of the vegetation changing color. The trail was in pretty great conditions, only a couple stretches where I had to navigate avalanche debris and only a couple miles where progress was slowed due to loose rocks. 
 
 ![Markdowm Image][5]{: class="bigger-image" }
+<figcaption class="caption">Trail Rider Pass</figcaption>
 ![Markdowm Image][6]{: class="bigger-image" }
+<figcaption class="caption">Elk Mountains</figcaption>
 ![Markdowm Image][7]{: class="bigger-image" }
+<figcaption class="caption">North Fork of Crystal River</figcaption>
 
 I did a fairly terrible job of hydrating and fueling all day because I was trying to just avoid the side ache from getting any worse. I didn’t filter water until probably 20 miles in, after Frigid Air Pass, and all I managed to eat all day was half a Clif bar and a pack of Clif energy chews. My energy level was pretty low all day and it was taking a lot of mental effort battling my body to run stretches at a time to maintain a decent pace.
 
 After coming over West Maroon Pass, the last pass of the day, I realized I needed to maintain a fast pace going down and really pushed myself to continue running stretches while going down even though my legs were pretty tired and I had very little energy.
 
 ![Markdowm Image][8]{: class="bigger-image" }
+<figcaption class="caption">West Maroon Creek</figcaption>
 ![Markdowm Image][9]{: class="bigger-image" }
+<figcaption class="caption">Sievers Mountain</figcaption>
 
 I made it back in time to catch a bus back to my car, although I felt like I was going to pass out from exhaustion while standing up during the bus ride. I grabbed some food, stretched, and slowly waited for the line to leave the parking lot to finally clear before having the energy to get in the car and make my way back to Denver.
-
-<figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
-
 
 [1]: https://lh3.googleusercontent.com/Gf9vznfw_znfiaLJA9LVHiESl9eWjtE7v03ulRF_OsDIt7utIeEIS-o5lQ8Lgc-eVXVK8-bgK1rtvjolwu2C2WMvHc9X91-qhTVfcLg13GSyfuXACiIyqFUyFW5JIv6F-AiCaiDttw=w2400
 [2]: https://lh3.googleusercontent.com/9CXJWu9rUn2oVNHJcjMw788KHM37s0GZdCSrSMYvFQoLCbDcMcTE95UQZIASP047_0-F0yXoB4HKtluTrg8pvDW8msl97gminH3lYto-qNkDYUQ7XqeevUSUpX0Miy7vVanvnvkyuw=w2400
