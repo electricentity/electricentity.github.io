@@ -15,7 +15,7 @@ description: Four Passes, One Side Ache
 ![Markdowm Image][1]{: class="bigger-image" }
 
 *27.01 miles, 7,756 ft*
-Strava(https://www.strava.com/activities/2747743782)
+[Strava](https://www.strava.com/activities/2747743782)
 
 
 Since moving to Colorado I have heard that the Four Pass Loop is one of the best trails to backpack. For some reason, before I was in remotely good enough shape or knew anything besides the name of the trail, I decided I wanted to run it.
