@@ -1,6 +1,6 @@
 # main text of home
 name: Michael Reeve
-bio: Avionics Engineer, Mountaineer, Photographer
+bio: Engineer, Mountaineer, Photographer
 
 # twitter summary info
 description: A blog about my adventures and ponderings
@@ -56,8 +56,8 @@ github: electricentity
 
 authors:
     michaelreeve:
-        name: MichaelReeve
-        bio: Avionics Engineer, Mountaineer, Photographer
+        name: Michael Reeve
+        bio: Engineer, Mountaineer, Photographer
         external-image: false
         picture: assets/images/profile.jpg
 
@@ -97,14 +97,8 @@ show-author: true
 # anmation: true
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-admin
-
-jekyll-mentions:
-    base_url: https://github.com
+  - jekyll-seo-tag
 
 compress_html:
     ignore:
@@ -112,4 +106,4 @@ compress_html:
         - development
         - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+exclude: ["Rakefile", "README.md", "Gemfile", "Gemfile.lock", "about.md", "projects.html", "CLAUDE.md", "bin"]

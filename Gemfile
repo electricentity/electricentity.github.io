@@ -1,5 +1,10 @@
-source 'http://rubygems.org'
+source "https://rubygems.org"
 
-gem 'github-pages'
-gem 'html-proofer'
-gem 'jekyll-admin'
+gem "jekyll", "~> 4.3"
+gem "jekyll-feed", "~> 0.17"
+gem "jekyll-seo-tag", "~> 2.8"
+gem "webrick", "~> 1.8"
+
+group :test do
+  gem "html-proofer", "~> 5.0"
+end

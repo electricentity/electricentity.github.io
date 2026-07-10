@@ -8,7 +8,7 @@ tag:
 - hiking
 star: true
 category: blog
-author: Michael Reeve
+author: michaelreeve
 description: A trail that will always hold memories
 ---
 ### *A trail that will always hold memories*

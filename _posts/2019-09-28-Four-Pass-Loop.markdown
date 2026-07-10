@@ -1,14 +1,14 @@
 ---
 title: "Four Pass Loop"
 layout: post
-date: 2019-09-28 20:0
+date: 2019-09-28 20:00
 headerImage: false
 tag:
 - photography
 - hiking
 star: true
 category: blog
-author: Michael Reeve
+author: michaelreeve
 description: Four Passes, One Side Ache
 ---
 
