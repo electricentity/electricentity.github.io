@@ -44,4 +44,4 @@ description: A short summary
 
 ## Deployment
 
-Pushing to `master` triggers `.github/workflows/deploy.yml`, which builds the site and deploys it via GitHub Pages.
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site and deploys it via GitHub Pages.
