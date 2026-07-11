@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+# Uploads a folder of exported photos to Cloudflare R2 and prints ready-to-paste
+# post markdown. Requires `rclone` configured with an "r2" remote (see README.md).
+set -euo pipefail
+
+BUCKET="electricentity-photos"
+DOMAIN="img.electricentity.com"
+REMOTE="r2"
+
+if [ $# -ne 2 ]; then
+  echo "Usage: $0 <post-slug> <path-to-photo-folder>" >&2
+  exit 1
+fi
+
+slug="$1"
+source_dir="$2"
+
+if ! command -v rclone >/dev/null 2>&1; then
+  echo "rclone not found. Install with 'brew install rclone', then run 'rclone config' once to add the '$REMOTE' remote (see README.md)." >&2
+  exit 1
+fi
+
+if [ ! -d "$source_dir" ]; then
+  echo "No such folder: $source_dir" >&2
+  exit 1
+fi
+
+shopt -s nullglob nocaseglob
+photos=("$source_dir"/*.jpg "$source_dir"/*.jpeg)
+shopt -u nullglob nocaseglob
+
+if [ ${#photos[@]} -eq 0 ]; then
+  echo "No .jpg/.jpeg files found in $source_dir" >&2
+  exit 1
+fi
+
+echo "Uploading ${#photos[@]} photo(s) to $REMOTE:$BUCKET/$slug/ ..." >&2
+for photo in "${photos[@]}"; do
+  filename="$(basename "$photo")"
+  rclone copyto "$photo" "$REMOTE:$BUCKET/$slug/$filename"
+done
+
+echo >&2
+echo "Done. Paste this into the post:" >&2
+echo >&2
+
+for photo in "${photos[@]}"; do
+  filename="$(basename "$photo")"
+  alt="$(echo "$filename" | sed -E 's/\.[Jj][Pp][Ee]?[Gg]$//; s/[-_]+/ /g')"
+  echo "![${alt}](https://${DOMAIN}/${slug}/${filename}){: class=\"bigger-image\" }"
+done

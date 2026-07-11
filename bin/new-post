@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+# Scaffolds a new post with front matter filled in: bin/new-post "Post Title"
+set -euo pipefail
+
+if [ $# -ne 1 ]; then
+  echo "Usage: $0 \"Post Title\"" >&2
+  exit 1
+fi
+
+title="$1"
+cd "$(dirname "$0")/.."
+
+slug="$(echo "$title" | sed -E 's/[^A-Za-z0-9]+/-/g; s/^-+|-+$//g')"
+date_stamp="$(date +%Y-%m-%d)"
+timestamp="$(date +"%Y-%m-%d %H:%M")"
+path="_posts/${date_stamp}-${slug}.markdown"
+
+if [ -e "$path" ]; then
+  echo "Already exists: $path" >&2
+  exit 1
+fi
+
+cat > "$path" <<EOF
+---
+title: "${title}"
+layout: post
+date: ${timestamp}
+headerImage: false
+tag:
+- photography
+star: true
+category: blog
+author: michaelreeve
+description:
+---
+
+EOF
+
+echo "Created $path"
