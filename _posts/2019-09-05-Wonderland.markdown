@@ -31,7 +31,7 @@ Fueling up on some delicious home cooked food the night before in my families Ai
 ![Markdowm Image][1]{: class="bigger-image" }
 <figcaption class="caption">Mount Rainier from Sunrise Visitor Center parking lot</figcaption>
 
-Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and the family friend joining us till Frozen Lake, the first junction for some of my side adventures. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace and set off for the begin of my journey.
+Starting to hit the trail with just enough gear to make us two days and one night to our first cache at Mowich Lake, I figured I would hike with my parents and the family friend joining us till Frozen Lake, the first junction for some of my side adventures. I stuck with everyone else until my Mom egged me on to going ahead. I quickly switched towards my own pace and set off for the beginning of my journey.
 
 I got to the Frozen Lake junction to realize that I was already hadn't planned appropriately. I was at tree line, leaving me no good tree to stash food in if I were to drop pack. I decided to head up towards the three Burroughs with my pack and figure out what to do as I went. Before ascending the Second Burrough I decided to just suspend my stuff sack of food between two rocks on my trekking pole and hope that was sufficient to at least save my food from chipmunks.
 
@@ -181,7 +181,7 @@ We ate breakfast as soon as the Inn started serving and hit the trail soon after
 
 Part way up the Pinnacle Peak Trail I had the need and was actually able to hang food from bears for the first time. I continued to the pass where I then headed west to first climb Lane Peak, after that was Denman, and then Plummer.
 
-After hitting everything west of the Pinnacle Peak Pass trail I skipped Pinnacle and traversed east hoping to get towards Unicorn. I got slightly of the main boot path by being a bit low and by the time I got to Castle I wanted a little pick-me-up, so I quickly scaled Castle and was humored by the fact that the route description had recommended gear for rappelling.
+After hitting everything west of the Pinnacle Peak Pass trail I skipped Pinnacle and traversed east hoping to get towards Unicorn. I got slightly off the main boot path by being a bit low and by the time I got to Castle I wanted a little pick-me-up, so I quickly scaled Castle and was humored by the fact that the route description had recommended gear for rappelling.
 
 ![Markdowm Image][15]{: class="bigger-image" }
 <figcaption class="caption">Pinnacle Peak from Castle Peak</figcaption>
