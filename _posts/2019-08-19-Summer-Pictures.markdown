@@ -31,29 +31,21 @@ This is just a dump of some of the cooler photos I have taken recently. I will p
 ![DSC 3972](https://img.electricentity.com/images/summer_photos_2019/DSC_3972.jpg){: class="bigger-image" loading="lazy" width="5664" height="3769" }
 ![DSC 4072](https://img.electricentity.com/images/summer_photos_2019/DSC_4072.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
 ![DSC 4079](https://img.electricentity.com/images/summer_photos_2019/DSC_4079.jpg){: class="bigger-image" loading="lazy" width="4309" height="2867" }
-![Markdowm Image][10]{: class="bigger-image" loading="lazy" }
+![DSC 4089](https://img.electricentity.com/images/summer_photos_2019/DSC_4089.jpg){: class="bigger-image" loading="lazy" width="2400" height="3607" }
 ![DSC 4096](https://img.electricentity.com/images/summer_photos_2019/DSC_4096.jpg){: class="bigger-image" loading="lazy" width="4211" height="2802" }
 ![DSC 4109](https://img.electricentity.com/images/summer_photos_2019/DSC_4109.jpg){: class="bigger-image" loading="lazy" width="4733" height="3149" }
 ![DSC 4174](https://img.electricentity.com/images/summer_photos_2019/DSC_4174.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
 ![DSC 4602](https://img.electricentity.com/images/summer_photos_2019/DSC_4602.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
 ![DSC 5239](https://img.electricentity.com/images/summer_photos_2019/DSC_5239.jpg){: class="bigger-image" loading="lazy" width="2779" height="4177" }
-![Markdowm Image][5]{: class="bigger-image" loading="lazy" }
-![Markdowm Image][14]{: class="bigger-image" loading="lazy" }
-![Markdowm Image][16]{: class="bigger-image" loading="lazy" }
-![Markdowm Image][17]{: class="bigger-image" loading="lazy" }
-![Markdowm Image][18]{: class="bigger-image" loading="lazy" }
-![Markdowm Image][19]{: class="bigger-image" loading="lazy" }
-![Markdowm Image][20]{: class="bigger-image" loading="lazy" }
+![DSC 3627 b](https://img.electricentity.com/images/summer_photos_2019/DSC_3627-b.jpg){: class="bigger-image" loading="lazy" width="2400" height="1597" }
+![DSC 4394](https://img.electricentity.com/images/summer_photos_2019/DSC_4394.jpg){: class="bigger-image" loading="lazy" width="2400" height="1597" }
+![DSC 5086](https://img.electricentity.com/images/summer_photos_2019/DSC_5086.jpg){: class="bigger-image" loading="lazy" width="2400" height="1597" }
+![DSC 4943](https://img.electricentity.com/images/summer_photos_2019/DSC_4943.jpg){: class="bigger-image" loading="lazy" width="2400" height="1597" }
+![DSC 5359](https://img.electricentity.com/images/summer_photos_2019/DSC_5359.jpg){: class="bigger-image" loading="lazy" width="2400" height="1597" }
+![DSC 5384 Pano 2](https://img.electricentity.com/images/summer_photos_2019/DSC_5384-Pano-2.jpg){: class="bigger-image" loading="lazy" width="2400" height="978" }
+![DSC 5726](https://img.electricentity.com/images/summer_photos_2019/DSC_5726.jpg){: class="bigger-image" loading="lazy" width="2400" height="1597" }
 
 
-[5]: https://lh3.googleusercontent.com/D7Cte1xmCancHwcWK3vkhwYQ5RU-mjsEUEK7NcA_gKMvQFAJrs5mIvFB-T0yFFCAJ1APUheurdyvdSup9169d0oyBFWHlkanRPMs_T2_b_18-DcNEYd7BESAz_Rer41-JxOnGiB_Cw=w2400
-[10]: https://lh3.googleusercontent.com/U7gEP5-dZ7uYNWq0xc0s1moAZ2_Raa1NTPvqGHDr9n9BThT-ZbYEZL4q-FOuHL-XHYfJ-5ZQY0aSec-DDi81n-uASYIOYvOyPoYg-RR6rGsROZt3lil_1xuVtoaLCYSjK4-H3Io3Lw=w2400
-[14]: https://lh3.googleusercontent.com/OB_pq8XUYLL5vJvRgxrSP2SQU3-ftHawf7ly_IYoYaSLeipLDKp-qpV3SfWWnTNFuzUAtUCAn9OqPacDBIOAgR2bwFBb3bllsSjGYobFvDbYRMxfTU5H86fwW2DefxT4j142bo5eBg=w2400
-[16]: https://lh3.googleusercontent.com/FWcT0VTp0Sn0sJ9Euklm_PVQO9Cb8Fo7WGRK83D6kTcU3xkltrUm6y7KkYHm2H9Asvsowqq7VHSmkZD125fL9m-Aqaga1m3rKf-r7lJYjJo5u-HmiCKSOgjCIeupt1Ck_iuo3Md8iQ=w2400
-[17]: https://lh3.googleusercontent.com/cMJ46sAgAabkeuqMBorJvduYCyy8o0aH0eOaTRmdTti6npbXVu2s9qzhjJPp9kWqHv1mx9ltgrqo95KgXwIKJmdotTX29zmJmcTN367xAJPho_n_61I29YSJVBEbHagPrIt7WmjOIw=w2400
-[18]: https://lh3.googleusercontent.com/ADbuFL6LKu7EWQ5RQJCwqI4tUvRZtf4RL0aH365iqQQSw06NS9EJceOJgjxekRD1unYk-SI80SUAVO5ut7aJdYqsc-M441IF7fQlPG_jT2fzXrE7eZO56m9XCxj5b-KuhfHeqn6m-Q=w2400
-[19]: https://lh3.googleusercontent.com/98NpkyISiglktsJJrQ-2OYkD-F7M9_0pfUp5ER-qh1Gf8VmYeY1WYQJTPBFpmgq7dDN0jtGBCk_N4uWIABP9heGNezfadtn_z99Z-4Ku3oVZYNYwHgn-AdL0TUKHZUmaR8Jy9ITk2w=w2400
-[20]: https://lh3.googleusercontent.com/dhOTYQQ3OpYJPgheT7vfu3l_Ufv_PGi_w0aTaJd5lBw75ZgB8vFMlC8QQVePOeByZyg689fggIoHROedJZ0uXC81xRWUGvyaOKguMa26GxeNbv9m0FGtqx_rOeyLre111SYXcIRdKQ=w2400
 
 
 

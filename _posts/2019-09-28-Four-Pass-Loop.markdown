@@ -12,7 +12,7 @@ author: michaelreeve
 description: Four Passes, One Side Ache
 ---
 
-![Markdowm Image][1]{: class="bigger-image" }
+![North Maroon Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_091249.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">North Maroon Peak</figcaption>
 
 *27 miles, 7,756 ft*
@@ -28,45 +28,36 @@ I didn’t want to do the planning for going camping beforehand, so I instead wo
 
 I finally hit the trail around 8:30 with the last bus down to my car at 5pm, although I could probably always hitchhike down the 8 miles if worse came to worst. I slowly made my way through hordes of people going up to the Maroon Bells for fall colors. Several miles in, a little passed the split where I decided to follow the route I had read and go CCW around the loop, the crowds thinned to just people who were backpacking the loop.
 
-![Markdowm Image][2]{: class="bigger-image" }
+![Snowpass Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">Snowpass Creek</figcaption>
 
 I developed a side ache, yet another thing I need to work on learning how to properly deal with, going up to the first pass. I was unable to completely rid myself of it almost all day. I might be able to hit stride going downhill, but as soon as I was putting in much effort I could feel it rekindle. 
 
-![Markdowm Image][3]{: class="bigger-image" }
+![Snowpass Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">Snowpass Peak</figcaption>
-![Markdowm Image][4]{: class="bigger-image" }
+![Snowpass Lake](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">Snowpass Lake</figcaption>
 
 The weather was incredible: some clouds but mainly just sun, light breeze only picking up right at the passes, and basically perfect temperatures all day preventing me from getting too hot. The scenery was a treat to run through with all of the vegetation changing color. The trail was in pretty great conditions, only a couple stretches where I had to navigate avalanche debris and only a couple miles where progress was slowed due to loose rocks. 
 
-![Markdowm Image][5]{: class="bigger-image" }
+![Trail Rider Pass](https://img.electricentity.com/four-pass-loop/IMG_20190928_113653.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">Trail Rider Pass</figcaption>
-![Markdowm Image][6]{: class="bigger-image" }
+![Elk Mountains](https://img.electricentity.com/four-pass-loop/IMG_20190928_123024.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">Elk Mountains</figcaption>
-![Markdowm Image][7]{: class="bigger-image" }
+![North Fork of Crystal River](https://img.electricentity.com/four-pass-loop/MVIMG_20190928_124755.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">North Fork of Crystal River</figcaption>
 
 I did a fairly terrible job of hydrating and fueling all day because I was trying to just avoid the side ache from getting any worse. I didn’t filter water until probably 20 miles in, after Frigid Air Pass, and all I managed to eat throughout the day was half a Clif bar and a pack of Clif energy chews. My energy level was pretty low and it was taking a lot of mental effort battling my body to run stretches at a time to maintain a decent pace.
 
 After coming over West Maroon Pass, the last pass of the day, I realized I needed to maintain a fast pace going down and really pushed myself to continue running stretches while going down even though my legs were pretty tired and I had very little energy.
 
-![Markdowm Image][8]{: class="bigger-image" }
+![West Maroon Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_153417_1.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">West Maroon Creek</figcaption>
-![Markdowm Image][9]{: class="bigger-image" }
+![Sievers Mountain](https://img.electricentity.com/four-pass-loop/IMG_20190928_164402.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
 <figcaption class="caption">Sievers Mountain</figcaption>
 
 I made it back in time to catch a bus back to my car, although I felt like I was going to pass out from exhaustion while standing up during the bus ride. I grabbed some food, stretched, and slowly waited for the line to leave the parking lot to finally clear before having the energy to get in the car and make my way back to Denver.
 
-[1]: https://lh3.googleusercontent.com/Gf9vznfw_znfiaLJA9LVHiESl9eWjtE7v03ulRF_OsDIt7utIeEIS-o5lQ8Lgc-eVXVK8-bgK1rtvjolwu2C2WMvHc9X91-qhTVfcLg13GSyfuXACiIyqFUyFW5JIv6F-AiCaiDttw=w2400
-[2]: https://lh3.googleusercontent.com/9CXJWu9rUn2oVNHJcjMw788KHM37s0GZdCSrSMYvFQoLCbDcMcTE95UQZIASP047_0-F0yXoB4HKtluTrg8pvDW8msl97gminH3lYto-qNkDYUQ7XqeevUSUpX0Miy7vVanvnvkyuw=w2400
-[3]: https://lh3.googleusercontent.com/WArlmgSNUAlOvtPa4upb-W9T1MVAF7A84qkiPOjW2nHYlpGSZkn6j9GBsmI1B4HGrK3tJV3YbQPuDZ4a0YDnhaMi9LnBGskG0W0J08BAeXK_K9WYM-LgW4NiEMUMNkYS5lAA55SKWA=w2400
-[4]: https://lh3.googleusercontent.com/JYZbycJGPFnXI7E5SPIiMEZhZgQHPCpujnuK16Aaw3iJvEXckhzHMuewapetXPFyaq9y5puXZIWcVWQ0ngqCFUXG931ggz6L4kSeDshwFNIhDnmnsPuVUETWSLtB5njR150VOx_pSw=w2400
-[5]: https://lh3.googleusercontent.com/LB-TRA9cm4alY08Tcxx8HuJTsoC8b9AnddbF-aQudkRSP2-bf-bfqS4mrkgzYDHZsxVxSQoM3BnahLLyQT3Tv66NNZL_hwZ2GQ8n_-Gp8Rg0yuVZorBI1gJYgNzM8B1jG6LHF7i2-w=w2400
-[6]: https://lh3.googleusercontent.com/5pgMhnarXTrtzMfXxY8qGHT8hPL41hl3wBjSyBlDv1X6qxJAKq_DadmezHe1ffHc6fC_2_nCEk15txR23iVRVe0mPLM7K4S8gOZAznbOlrPbMnHPs2BQGkZ3YGvYoeCSKGIQwJ5OYA=w2400
-[7]: https://lh3.googleusercontent.com/0PZltys2wBBBYXs4RvSrh3gLwRbiwihxEg1mAZEMrXVMtskghnqeq2tOXWL9w7kRJiX18dzvWjJ4fgF3jqv42AfrOQ-Pt_l4faOXJ0wFWXyEwtLS0ZEkbz0ZJl-dO44Qi1bcizNglw=w2400
-[8]: https://lh3.googleusercontent.com/d5ZO1u1qqE5YHm-N03HZvhwHyLV8jEUJjJ68fFAvhsiQDJ0SSfiBGo--frAyfRLYg63bmR7UssXa0tl2m0IJtCdMECKrc0OfvZCQlqokUrduVHXKyy_92wIX0ADIpLU_r0udcCC3gQ=w2400
-[9]:https://lh3.googleusercontent.com/MXv80MLTzvn0fbhcSHCa6OFHi3BXupFCpuJPuDPYZnO6G2k00i70KNNdipKOHTGHyG54f1KzFkheXR0kKnDUPHqSnZYd7PIboYT2PO2OZ2kRwZQe28hDKGNLjK2TKL9Vwb0tKP1j2g=w2400
 
 
 
