@@ -25,6 +25,11 @@ if ! command -v sips >/dev/null 2>&1; then
   exit 1
 fi
 
+if ! command -v jpegtran >/dev/null 2>&1; then
+  echo "jpegtran not found. Install with 'brew install jpeg-turbo' (used to losslessly re-encode photos as progressive JPEGs, so they render low-res-to-sharp as they load instead of appearing all at once)." >&2
+  exit 1
+fi
+
 if [ ! -d "$source_dir" ]; then
   echo "No such folder: $source_dir" >&2
   exit 1
@@ -39,10 +44,16 @@ if [ ${#photos[@]} -eq 0 ]; then
   exit 1
 fi
 
+tmpdir="$(mktemp -d)"
+trap 'rm -rf "$tmpdir"' EXIT
+
 echo "Uploading ${#photos[@]} photo(s) to $REMOTE:$BUCKET/$slug/ ..." >&2
 for photo in "${photos[@]}"; do
   filename="$(basename "$photo")"
-  rclone copyto "$photo" "$REMOTE:$BUCKET/$slug/$filename"
+  # Losslessly re-encode as progressive JPEG: same pixels, but renders low-res-to-sharp
+  # as it downloads instead of popping in all at once.
+  jpegtran -copy all -progressive -optimize -outfile "$tmpdir/$filename" "$photo"
+  rclone copyto "$tmpdir/$filename" "$REMOTE:$BUCKET/$slug/$filename"
 done
 
 echo >&2
