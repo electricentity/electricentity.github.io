@@ -20,6 +20,11 @@ if ! command -v rclone >/dev/null 2>&1; then
   exit 1
 fi
 
+if ! command -v sips >/dev/null 2>&1; then
+  echo "sips not found (expected on macOS, used to read image dimensions for width/height attributes)." >&2
+  exit 1
+fi
+
 if [ ! -d "$source_dir" ]; then
   echo "No such folder: $source_dir" >&2
   exit 1
@@ -47,5 +52,7 @@ echo >&2
 for photo in "${photos[@]}"; do
   filename="$(basename "$photo")"
   alt="$(echo "$filename" | sed -E 's/\.[Jj][Pp][Ee]?[Gg]$//; s/[-_]+/ /g')"
-  echo "![${alt}](https://${DOMAIN}/${slug}/${filename}){: class=\"bigger-image\" }"
+  width="$(sips -g pixelWidth "$photo" | awk '/pixelWidth/ {print $2}')"
+  height="$(sips -g pixelHeight "$photo" | awk '/pixelHeight/ {print $2}')"
+  echo "![${alt}](https://${DOMAIN}/${slug}/${filename}){: class=\"bigger-image\" loading=\"lazy\" width=\"${width}\" height=\"${height}\" }"
 done

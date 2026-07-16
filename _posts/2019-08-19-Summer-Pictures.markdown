@@ -16,34 +16,34 @@ I finally got around to making a site. Hopefully I will get in the habit of freq
 
 This is just a dump of some of the cooler photos I have taken recently. I will potentially go back and do more in depth posts for some of the trips if they are noteworthy.
 
-![DSC 2380](https://img.electricentity.com/images/summer_photos_2019/DSC_2380.jpg){: class="bigger-image" }
-![DSC 2441](https://img.electricentity.com/images/summer_photos_2019/DSC_2441.jpg){: class="bigger-image" }
-![DSC 3328](https://img.electricentity.com/images/summer_photos_2019/DSC_3328.jpg){: class="bigger-image" }
-![DSC 3400](https://img.electricentity.com/images/summer_photos_2019/DSC_3400.jpg){: class="bigger-image" }
-![DSC 3534](https://img.electricentity.com/images/summer_photos_2019/DSC_3534.jpg){: class="bigger-image" }
-![DSC 3594](https://img.electricentity.com/images/summer_photos_2019/DSC_3594.jpg){: class="bigger-image" }
-![DSC 3627](https://img.electricentity.com/images/summer_photos_2019/DSC_3627.jpg){: class="bigger-image" }
-![DSC 3694](https://img.electricentity.com/images/summer_photos_2019/DSC_3694.jpg){: class="bigger-image" }
-![DSC 3754](https://img.electricentity.com/images/summer_photos_2019/DSC_3754.jpg){: class="bigger-image" }
-![DSC 3829](https://img.electricentity.com/images/summer_photos_2019/DSC_3829.jpg){: class="bigger-image" }
-![DSC 3882](https://img.electricentity.com/images/summer_photos_2019/DSC_3882.jpg){: class="bigger-image" }
-![DSC 3949](https://img.electricentity.com/images/summer_photos_2019/DSC_3949.jpg){: class="bigger-image" }
-![DSC 3972](https://img.electricentity.com/images/summer_photos_2019/DSC_3972.jpg){: class="bigger-image" }
-![DSC 4072](https://img.electricentity.com/images/summer_photos_2019/DSC_4072.jpg){: class="bigger-image" }
-![DSC 4079](https://img.electricentity.com/images/summer_photos_2019/DSC_4079.jpg){: class="bigger-image" }
-![Markdowm Image][10]{: class="bigger-image" }
-![DSC 4096](https://img.electricentity.com/images/summer_photos_2019/DSC_4096.jpg){: class="bigger-image" }
-![DSC 4109](https://img.electricentity.com/images/summer_photos_2019/DSC_4109.jpg){: class="bigger-image" }
-![DSC 4174](https://img.electricentity.com/images/summer_photos_2019/DSC_4174.jpg){: class="bigger-image" }
-![DSC 4602](https://img.electricentity.com/images/summer_photos_2019/DSC_4602.jpg){: class="bigger-image" }
-![DSC 5239](https://img.electricentity.com/images/summer_photos_2019/DSC_5239.jpg){: class="bigger-image" }
-![Markdowm Image][5]{: class="bigger-image" }
-![Markdowm Image][14]{: class="bigger-image" }
-![Markdowm Image][16]{: class="bigger-image" }
-![Markdowm Image][17]{: class="bigger-image" }
-![Markdowm Image][18]{: class="bigger-image" }
-![Markdowm Image][19]{: class="bigger-image" }
-![Markdowm Image][20]{: class="bigger-image" }
+![DSC 2380](https://img.electricentity.com/images/summer_photos_2019/DSC_2380.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 2441](https://img.electricentity.com/images/summer_photos_2019/DSC_2441.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3328](https://img.electricentity.com/images/summer_photos_2019/DSC_3328.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3400](https://img.electricentity.com/images/summer_photos_2019/DSC_3400.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3534](https://img.electricentity.com/images/summer_photos_2019/DSC_3534.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3594](https://img.electricentity.com/images/summer_photos_2019/DSC_3594.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3627](https://img.electricentity.com/images/summer_photos_2019/DSC_3627.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3694](https://img.electricentity.com/images/summer_photos_2019/DSC_3694.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3754](https://img.electricentity.com/images/summer_photos_2019/DSC_3754.jpg){: class="bigger-image" loading="lazy" width="5916" height="3936" }
+![DSC 3829](https://img.electricentity.com/images/summer_photos_2019/DSC_3829.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3882](https://img.electricentity.com/images/summer_photos_2019/DSC_3882.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 3949](https://img.electricentity.com/images/summer_photos_2019/DSC_3949.jpg){: class="bigger-image" loading="lazy" width="3945" height="2625" }
+![DSC 3972](https://img.electricentity.com/images/summer_photos_2019/DSC_3972.jpg){: class="bigger-image" loading="lazy" width="5664" height="3769" }
+![DSC 4072](https://img.electricentity.com/images/summer_photos_2019/DSC_4072.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 4079](https://img.electricentity.com/images/summer_photos_2019/DSC_4079.jpg){: class="bigger-image" loading="lazy" width="4309" height="2867" }
+![Markdowm Image][10]{: class="bigger-image" loading="lazy" }
+![DSC 4096](https://img.electricentity.com/images/summer_photos_2019/DSC_4096.jpg){: class="bigger-image" loading="lazy" width="4211" height="2802" }
+![DSC 4109](https://img.electricentity.com/images/summer_photos_2019/DSC_4109.jpg){: class="bigger-image" loading="lazy" width="4733" height="3149" }
+![DSC 4174](https://img.electricentity.com/images/summer_photos_2019/DSC_4174.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 4602](https://img.electricentity.com/images/summer_photos_2019/DSC_4602.jpg){: class="bigger-image" loading="lazy" width="6048" height="4024" }
+![DSC 5239](https://img.electricentity.com/images/summer_photos_2019/DSC_5239.jpg){: class="bigger-image" loading="lazy" width="2779" height="4177" }
+![Markdowm Image][5]{: class="bigger-image" loading="lazy" }
+![Markdowm Image][14]{: class="bigger-image" loading="lazy" }
+![Markdowm Image][16]{: class="bigger-image" loading="lazy" }
+![Markdowm Image][17]{: class="bigger-image" loading="lazy" }
+![Markdowm Image][18]{: class="bigger-image" loading="lazy" }
+![Markdowm Image][19]{: class="bigger-image" loading="lazy" }
+![Markdowm Image][20]{: class="bigger-image" loading="lazy" }
 
 
 [5]: https://lh3.googleusercontent.com/D7Cte1xmCancHwcWK3vkhwYQ5RU-mjsEUEK7NcA_gKMvQFAJrs5mIvFB-T0yFFCAJ1APUheurdyvdSup9169d0oyBFWHlkanRPMs_T2_b_18-DcNEYd7BESAz_Rer41-JxOnGiB_Cw=w2400
