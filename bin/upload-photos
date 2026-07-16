@@ -3,7 +3,7 @@
 # post markdown. Requires `rclone` configured with an "r2" remote (see README.md).
 set -euo pipefail
 
-BUCKET="electricentity-photos"
+BUCKET="electricentity"
 DOMAIN="img.electricentity.com"
 REMOTE="r2"
 
