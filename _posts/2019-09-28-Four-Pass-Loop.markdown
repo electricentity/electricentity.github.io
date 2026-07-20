@@ -12,7 +12,7 @@ author: michaelreeve
 description: Four Passes, One Side Ache
 ---
 
-![North Maroon Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_091249.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![North Maroon Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_091249.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_091249.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">North Maroon Peak</figcaption>
 
 *27 miles, 7,756 ft*
@@ -28,32 +28,32 @@ I didn’t want to do the planning for going camping beforehand, so I instead wo
 
 I finally hit the trail around 8:30 with the last bus down to my car at 5pm, although I could probably always hitchhike down the 8 miles if worse came to worst. I slowly made my way through hordes of people going up to the Maroon Bells for fall colors. Several miles in, a little passed the split where I decided to follow the route I had read and go CCW around the loop, the crowds thinned to just people who were backpacking the loop.
 
-![Snowpass Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![Snowpass Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">Snowpass Creek</figcaption>
 
 I developed a side ache, yet another thing I need to work on learning how to properly deal with, going up to the first pass. I was unable to completely rid myself of it almost all day. I might be able to hit stride going downhill, but as soon as I was putting in much effort I could feel it rekindle. 
 
-![Snowpass Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![Snowpass Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">Snowpass Peak</figcaption>
-![Snowpass Lake](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![Snowpass Lake](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">Snowpass Lake</figcaption>
 
 The weather was incredible: some clouds but mainly just sun, light breeze only picking up right at the passes, and basically perfect temperatures all day preventing me from getting too hot. The scenery was a treat to run through with all of the vegetation changing color. The trail was in pretty great conditions, only a couple stretches where I had to navigate avalanche debris and only a couple miles where progress was slowed due to loose rocks. 
 
-![Trail Rider Pass](https://img.electricentity.com/four-pass-loop/IMG_20190928_113653.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![Trail Rider Pass](https://img.electricentity.com/four-pass-loop/IMG_20190928_113653.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_113653.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">Trail Rider Pass</figcaption>
-![Elk Mountains](https://img.electricentity.com/four-pass-loop/IMG_20190928_123024.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![Elk Mountains](https://img.electricentity.com/four-pass-loop/IMG_20190928_123024.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_123024.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">Elk Mountains</figcaption>
-![North Fork of Crystal River](https://img.electricentity.com/four-pass-loop/MVIMG_20190928_124755.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![North Fork of Crystal River](https://img.electricentity.com/four-pass-loop/MVIMG_20190928_124755.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/MVIMG_20190928_124755.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">North Fork of Crystal River</figcaption>
 
 I did a fairly terrible job of hydrating and fueling all day because I was trying to just avoid the side ache from getting any worse. I didn’t filter water until probably 20 miles in, after Frigid Air Pass, and all I managed to eat throughout the day was half a Clif bar and a pack of Clif energy chews. My energy level was pretty low and it was taking a lot of mental effort battling my body to run stretches at a time to maintain a decent pace.
 
 After coming over West Maroon Pass, the last pass of the day, I realized I needed to maintain a fast pace going down and really pushed myself to continue running stretches while going down even though my legs were pretty tired and I had very little energy.
 
-![West Maroon Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_153417_1.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![West Maroon Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_153417_1.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_153417_1.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">West Maroon Creek</figcaption>
-![Sievers Mountain](https://img.electricentity.com/four-pass-loop/IMG_20190928_164402.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }
+[![Sievers Mountain](https://img.electricentity.com/four-pass-loop/IMG_20190928_164402.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_164402.jpg){: data-fslightbox="four-pass-loop" }
 <figcaption class="caption">Sievers Mountain</figcaption>
 
 I made it back in time to catch a bus back to my car, although I felt like I was going to pass out from exhaustion while standing up during the bus ride. I grabbed some food, stretched, and slowly waited for the line to leave the parking lot to finally clear before having the energy to get in the car and make my way back to Denver.

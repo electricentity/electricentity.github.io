@@ -6,6 +6,8 @@ set -euo pipefail
 BUCKET="electricentity"
 DOMAIN="img.electricentity.com"
 REMOTE="r2"
+MAX_DIM=2400
+QUALITY=82
 
 if [ $# -ne 2 ]; then
   echo "Usage: $0 <post-slug> <path-to-photo-folder>" >&2
@@ -21,7 +23,7 @@ if ! command -v rclone >/dev/null 2>&1; then
 fi
 
 if ! command -v sips >/dev/null 2>&1; then
-  echo "sips not found (expected on macOS, used to read image dimensions for width/height attributes)." >&2
+  echo "sips not found (expected on macOS, used to read image dimensions and downscale photos for web display)." >&2
   exit 1
 fi
 
@@ -50,10 +52,17 @@ trap 'rm -rf "$tmpdir"' EXIT
 echo "Uploading ${#photos[@]} photo(s) to $REMOTE:$BUCKET/$slug/ ..." >&2
 for photo in "${photos[@]}"; do
   filename="$(basename "$photo")"
-  # Losslessly re-encode as progressive JPEG: same pixels, but renders low-res-to-sharp
-  # as it downloads instead of popping in all at once.
-  jpegtran -copy all -progressive -optimize -outfile "$tmpdir/$filename" "$photo"
-  rclone copyto "$tmpdir/$filename" "$REMOTE:$BUCKET/$slug/$filename"
+
+  # Full-quality version, kept behind the lightbox click: losslessly re-encoded as
+  # progressive JPEG (same pixels, renders low-res-to-sharp as it downloads).
+  jpegtran -copy all -progressive -optimize -outfile "$tmpdir/full_$filename" "$photo"
+  rclone copyto "$tmpdir/full_$filename" "$REMOTE:$BUCKET/$slug/full/$filename"
+
+  # Default display version: downscaled to the site's max render width (the post
+  # column caps out at 810px) so phones aren't pulling multi-megabyte originals.
+  sips -Z "$MAX_DIM" -s formatOptions "$QUALITY" "$photo" --out "$tmpdir/$filename" >/dev/null
+  jpegtran -copy all -progressive -optimize -outfile "$tmpdir/final_$filename" "$tmpdir/$filename"
+  rclone copyto "$tmpdir/final_$filename" "$REMOTE:$BUCKET/$slug/$filename"
 done
 
 echo >&2
@@ -63,7 +72,7 @@ echo >&2
 for photo in "${photos[@]}"; do
   filename="$(basename "$photo")"
   alt="$(echo "$filename" | sed -E 's/\.[Jj][Pp][Ee]?[Gg]$//; s/[-_]+/ /g')"
-  width="$(sips -g pixelWidth "$photo" | awk '/pixelWidth/ {print $2}')"
-  height="$(sips -g pixelHeight "$photo" | awk '/pixelHeight/ {print $2}')"
-  echo "![${alt}](https://${DOMAIN}/${slug}/${filename}){: class=\"bigger-image\" loading=\"lazy\" width=\"${width}\" height=\"${height}\" }"
+  width="$(sips -g pixelWidth "$tmpdir/$filename" | awk '/pixelWidth/ {print $2}')"
+  height="$(sips -g pixelHeight "$tmpdir/$filename" | awk '/pixelHeight/ {print $2}')"
+  echo "[![${alt}](https://${DOMAIN}/${slug}/${filename}){: class=\"bigger-image\" loading=\"lazy\" width=\"${width}\" height=\"${height}\" }](https://${DOMAIN}/${slug}/full/${filename}){: data-fslightbox=\"${slug}\" }"
 done
