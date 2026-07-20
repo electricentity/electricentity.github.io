@@ -46,5 +46,11 @@ layout: compress
 
     {% include icons.html %}
 
+    {% if jekyll.environment == "production" %}
+    <!-- Cloudflare Web Analytics -->
+    <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "dcde6065c5464c8d876c2f55aaedc74a"}'></script>
+    <!-- End Cloudflare Web Analytics -->
+    {% endif %}
+
 </body>
 </html>
