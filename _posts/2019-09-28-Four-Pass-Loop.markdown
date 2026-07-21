@@ -28,15 +28,15 @@ I didn’t want to do the planning for going camping beforehand, so I instead wo
 
 I finally hit the trail around 8:30 with the last bus down to my car at 5pm, although I could probably always hitchhike down the 8 miles if worse came to worst. I slowly made my way through hordes of people going up to the Maroon Bells for fall colors. Several miles in, a little passed the split where I decided to follow the route I had read and go CCW around the loop, the crowds thinned to just people who were backpacking the loop.
 
-[![Snowpass Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: data-fslightbox="four-pass-loop" }
-<figcaption class="caption">Snowpass Creek</figcaption>
+[![Snowmass Creek](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_101427.jpg){: data-fslightbox="four-pass-loop" }
+<figcaption class="caption">Snowmass Creek</figcaption>
 
 I developed a side ache, yet another thing I need to work on learning how to properly deal with, going up to the first pass. I was unable to completely rid myself of it almost all day. I might be able to hit stride going downhill, but as soon as I was putting in much effort I could feel it rekindle. 
 
-[![Snowpass Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: data-fslightbox="four-pass-loop" }
-<figcaption class="caption">Snowpass Peak</figcaption>
-[![Snowpass Lake](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: data-fslightbox="four-pass-loop" }
-<figcaption class="caption">Snowpass Lake</figcaption>
+[![Snowmass Peak](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_110122.jpg){: data-fslightbox="four-pass-loop" }
+<figcaption class="caption">Snowmass Peak</figcaption>
+[![Snowmass Lake](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: class="bigger-image" loading="lazy" width="2400" height="1800" }](https://img.electricentity.com/four-pass-loop/IMG_20190928_111743.jpg){: data-fslightbox="four-pass-loop" }
+<figcaption class="caption">Snowmass Lake</figcaption>
 
 The weather was incredible: some clouds but mainly just sun, light breeze only picking up right at the passes, and basically perfect temperatures all day preventing me from getting too hot. The scenery was a treat to run through with all of the vegetation changing color. The trail was in pretty great conditions, only a couple stretches where I had to navigate avalanche debris and only a couple miles where progress was slowed due to loose rocks. 
 
